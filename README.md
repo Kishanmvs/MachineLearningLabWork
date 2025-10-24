@@ -1,5 +1,5 @@
 # MachineLearningLabWork
-*Lab 1*
+**Lab 1**
 
 **Wine Quality Classification (K-Fold Testing)**
 
@@ -28,3 +28,58 @@ Std Dev: 0.015
 Model performs well overall.
 
 Imbalance → lower recall for “Good” wine
+
+
+**Lab 2**
+
+**Spam Email Classification — Gaussian Naive Bayes**
+
+*📂 Dataset*
+
+UCI Spambase Dataset
+
+Rows: 4601 emails
+
+Features: 57
+
+Target:
+
+  * `1` → Spam
+  * `0` → Not Spam
+
+*⚙️ Method*
+
+Approach: Gaussian Naive Bayes
+
+Split: 70% Training / 30% Testing
+
+Metrics: Accuracy + Confusion Matrix
+
+Implementation: From-scratch Bayes + scikit-learn baseline comparison
+
+*📊 Results*
+
+Accuracy: ~0.88
+
+Confusion Matrix:
+
+  ```
+  [[ 625  179] 
+   [  38 539]]
+  ```
+Spam Count: 1813
+
+Non-Spam Count: 2788
+
+
+📝 Insight
+
+Good baseline performance with simple Gaussian NB
+
+Some false positives → misclassification of legitimate emails as spam
+
+Could improve with feature scaling, text preprocessing, or TF-IDF & Multinomial/Bernoulli NB models
+
+
+
+
