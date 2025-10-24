@@ -29,6 +29,7 @@ Model performs well overall.
 
 Imbalance → lower recall for “Good” wine
 
+---
 
 **Lab 2**
 
