@@ -2,7 +2,7 @@
 **Lab 1**
 
 **Wine Quality Classification (K-Fold Testing)**
-
+**Iris Dataset (2-Fold Splitting)**
 
 **Lab 2**
 
