@@ -11,10 +11,12 @@
 
 **Test & Train Validation Split - Iris Dataset**
 
-
 **Lab 3**
 
 **MNIST Dataset - Binary Classification**
 
+**Lab 4**
+
+**Linear Regression - Student Scores Dataset**
 
 
