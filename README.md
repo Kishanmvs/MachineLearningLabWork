@@ -9,7 +9,9 @@
 **Spam Email Classification — Gaussian Naive Bayes**
 
 
+**Lab 3**
 
+**MNIST Dataset**
 
 
 
