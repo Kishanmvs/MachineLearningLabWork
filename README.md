@@ -19,4 +19,8 @@
 
 **Linear Regression - Student Scores Dataset**
 
+**Lab 5**
+
+**Linear, Ridge & Lasso Regression - Student Performance Dataset**
+
 
