@@ -23,4 +23,8 @@
 
 **Linear, Ridge & Lasso Regression - Student Performance Dataset**
 
+**Lab 6**
+
+**K-Means Clustering - IRIS Dataset**
+
 
