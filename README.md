@@ -7,7 +7,7 @@
 
 **Lab 2**
 
-**Spam Email Classification — Gaussian Naive Bayes**
+**Spam Email Classification - Gaussian Naive Bayes**
 
 **Test & Train Validation Split - Iris Dataset**
 
